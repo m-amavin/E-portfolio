@@ -1,7 +1,17 @@
 # Amavin Mendis
 ## BSc(Biotechnology)
 
-welcome to my e portfolio on gitbhub
+I'm Amavin, an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
+I'm an individual who is passionate about wildlife and science.
+**Welcome to My GITHUB E-Portfolio.**
+
+# Experience
+## Intern -**Urban Fishingcat Consevation** (2021)
+Voulnteering as an Intern at Urban Fishing Cat conservation project.
+    **Responsiblities**
+    * Aid in the Field setting up camera traps and surveying locations.
+    * Help in conducting public awareness programmes.
+    *assist in the analysis and collection of samples and data.
 
 # Education
 
@@ -45,7 +55,7 @@ welcome to my e portfolio on gitbhub
 * **Primary prefect**
 * **Captain Under 14 Rugby Team**
 
-## **Other Organisationa**
+## **Other Organisations**
 * **Young Zoologists'Association (2016-present)**
 * **Greeenrange bee conservation organisation (2018-present)**
 
