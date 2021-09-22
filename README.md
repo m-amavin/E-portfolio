@@ -1,6 +1,6 @@
 # Amavin Mendis
 ## BSc(Biotechnology) 
-Undergraduate
+
 
 I'm Amavin, an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
 I'm an individual who is passionate about wildlife and science.
