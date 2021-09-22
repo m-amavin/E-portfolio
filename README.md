@@ -11,7 +11,7 @@ I'm an individual who is passionate about wildlife and science.
 
 Voulnteering as an Intern at Urban Fishing Cat conservation project. 
 
-###**Responsiblities**
+**Responsiblities**
 * Aid in the Field setting up camera traps and surveying locations.
 * Help in conducting public awareness programmes.
 * Assist in the analysis and collection of samples and data.
