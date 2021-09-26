@@ -10,7 +10,7 @@ I'm an individual who is passionate about wildlife and science.
 ## Intern -**Urban Fishing cat Consevation Project** (2021)
 
 Voulnteering as an Intern at Urban Fishing Cat conservation project.
-[urban fishing cat conservation project] (https://fishingcats.lk/people-behind-the-project/)
+[urban fishing cat conservation project](https://fishingcats.lk/people-behind-the-project/)
 
 **Responsiblities**
 * Aid in the Field setting up camera traps and surveying locations.
