@@ -26,9 +26,10 @@ Voulnteering as an Intern at [Urban Fishing Cat Conservation Project](https://fi
 
 **Biology Stream** English medium
 
-* Biology      **(B)**
-* Physics      **(S)**
-* Chemistry    **(S)**
+| Subject | Grade |
+| Biology | **(B)** |
+| Physics | **(S)** |
+| Chemistry | **(S)** |
 
 ## G.C.E Odinary Level (2017)
 
