@@ -18,20 +18,22 @@ Voulnteering as an Intern at [Urban Fishing Cat Conservation Project](https://fi
 
 # Education
 
-## Bachelor of science (Biotechnology) (2025)
+## Bachelor of Science (Biotechnology) (2025)
 ## Sri Lanka Instiute of Information Technology
 (Undergraduate)
 
 ## G.C.E. Adavanced Level (2020)
 
-**Biology Stream** English medium
+**Biology Stream** English Medium
 
 | Subject | Grade |
 | Biology | **(B)** |
 | Physics | **(S)** |
 | Chemistry | **(S)** |
 
-## G.C.E Odinary Level (2017)
+## G.C.E Ordinary Level (2017)
+
+English Medium
 
 | Subject | Grade |
 | Sinhala | **(A)** |
