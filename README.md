@@ -33,15 +33,16 @@ Voulnteering as an Intern at [Urban Fishing Cat Conservation Project](https://fi
 
 ## G.C.E Odinary Level (2017)
 
-* Sinhala **(A)**
-* English **(A)**
-* Mathematics **(A)**
-* Science **(A)**
-* History **(A)**
-* Buddhism **(A)**
-* I.C.T **(A)**
-* Commerce **(B)**
-* English Literature **(B)** 
+| Subject | Grade |
+| Sinhala | **(A)** |
+| English | **(A)** |
+| Mathematics | **(A)** |
+| Science | **(A)** |
+| History | **(A)** |
+| Buddhism | **(A)** |
+| I.C.T | **(A)** |
+| Commerce | **(B)** |
+| English Literature | **(B)** | 
 
 ## **Positions held in Societies at School**
 
