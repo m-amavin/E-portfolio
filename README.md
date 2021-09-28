@@ -1,7 +1,7 @@
 # Amavin Mendis
 ## BSc(Biotechnology) 
 
-(![image](https://user-images.githubusercontent.com/91007470/135143719-53e1d481-e576-4a3e-ae54-66d7e580ad01.png)
+![image](https://user-images.githubusercontent.com/91007470/135143719-53e1d481-e576-4a3e-ae54-66d7e580ad01.png)
 
 
 I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
