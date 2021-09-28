@@ -5,7 +5,7 @@
 
 <p align="center" style="bold">**Full name**
 
-Balapuwaduge Ranidu Amavin Mendis
+ <STYLE type="text/css">Balapuwaduge Ranidu Amavin Mendis   </STYLE>
 
 **Date of birth**
 
