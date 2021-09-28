@@ -16,11 +16,13 @@ I'm passionate about gaining new experinces and learning new things.
 | **Languages** | English, Sinhala |
 
 ## **Skills**
-* Computer skills including Microsoft Office applications 
+* Computer skills including Microsoft Office applications
 * Proficient in English and Sinhala
 * Public speaking
+* Basic skills in Adobe software including photoshop and priemier pro
 
-
+ 
+ 
 # Experience
 ## Intern -**Urban Fishing cat Consevation Project** (2021)
 
