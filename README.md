@@ -17,7 +17,7 @@ I'm passionate about gaining new experinces and learning new things.
 
 ## **Skills**
 * Computer skills including Microsoft Office applications 
-* Proficient in English and Sinha;a
+* Proficient in English and Sinhala
 * Public speaking
 
 
