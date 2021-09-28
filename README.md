@@ -1,17 +1,19 @@
 # Amavin Mendis
 ## BSc(Biotechnology) 
 
+(![image](https://user-images.githubusercontent.com/91007470/135143719-53e1d481-e576-4a3e-ae54-66d7e580ad01.png)
+
 
 I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
-I'm an individual who is hard working and a teamplayer. prepared to undertake any challenge. I'm resposnsible and a good communicator.
-I'm passionate about learning new things.
+I'm an individual who is hard working and prepared to undertake any challenge. I'm a teaam player who is able to communicate effectively.
+I'm passionate about gaining new experinces and learning new things.
 **Welcome to My GITHUB E-Portfolio.**
 
-![alt text](![image](https://user-images.githubusercontent.com/91007470/135142181-0d0ecb8f-feb1-48ed-80b3-de9a9a596f1e.png)
 
 
 # Experience
 ## Intern -**Urban Fishing cat Consevation Project** (2021)
+
 
 Voulnteering as an Intern at [Urban Fishing Cat Conservation Project](https://fishingcats.lk/people-behind-the-project/)
 
