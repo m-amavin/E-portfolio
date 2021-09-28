@@ -10,11 +10,10 @@ Balapuwaduge Ranidu Amavin Mendis
 ###Address
 26/102c, Waidya Road, Dehiwala.
 
-
-I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
+<p align="center">I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
 I'm an individual who is hard working and prepared to undertake any challenge. I'm a team player who is able to communicate effectively.
 I'm passionate about gaining new experinces and learning new things.
-**Welcome to My GITHUB E-Portfolio.**
+**Welcome to My GITHUB E-Portfolio.**</p>
 
 
 
