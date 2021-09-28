@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/91007470/135143719-53e1d481-e576-4a3e-ae54-66d7e580ad01.png)
 
-<p align="center">**Full name**
+<p align="center" style="bold">**Full name**
 
 Balapuwaduge Ranidu Amavin Mendis
 
