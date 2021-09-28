@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/91007470/135143719-53e1d481-e576-4a3e-ae54-66d7e580ad01.png)
 
-**Full name**
+<p align="center">**Full name**
 
 Balapuwaduge Ranidu Amavin Mendis
 
@@ -15,6 +15,8 @@ Balapuwaduge Ranidu Amavin Mendis
 
 26/102c, Waidya Road, Dehiwala.
 
+ </p>
+ 
 <p align="justify">I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
 I'm an individual who is hard working and prepared to undertake any challenge. I'm a team player who is able to communicate effectively.
 I'm passionate about gaining new experinces and learning new things.
