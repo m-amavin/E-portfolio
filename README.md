@@ -3,11 +3,12 @@
 
 
 I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
-I'm an individual who is hard working teamplayer. prepared to undertake any challenge. I'm resposnsible and a good communicator.
+I'm an individual who is hard working and a teamplayer. prepared to undertake any challenge. I'm resposnsible and a good communicator.
 I'm passionate about learning new things.
 **Welcome to My GITHUB E-Portfolio.**
 
-![alt text](Screenshot 2021-09-27 100422)
+![alt text](![image](https://user-images.githubusercontent.com/91007470/135142181-0d0ecb8f-feb1-48ed-80b3-de9a9a596f1e.png)
+
 
 # Experience
 ## Intern -**Urban Fishing cat Consevation Project** (2021)
