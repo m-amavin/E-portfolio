@@ -13,6 +13,12 @@ I'm passionate about gaining new experinces and learning new things.
 | **Nationality** | Sri Lankan |
 | **Address** | 26/102c, Waidya Road, Dehiwala. |
 | **Email** | <span style="color:blue">hs21915604@my.sliit.lk</span> |
+| **Languages** | English, Sinhala |
+
+## **Skills**
+* Computer skills including Microsoft Office applications 
+* Proficient in English and Sinha;a
+* Public speaking
 
 
 # Experience
@@ -55,6 +61,14 @@ English Medium
 | I.C.T | **(A)** |
 | Commerce | **(B)** |
 | English Literature | **(B)** | 
+
+## **Extracurricular activities**
+
+## **Sports**
+* Rugby
+* swimming
+* athletics
+* karate
 
 ## **Positions held in Societies at School**
 
