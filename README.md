@@ -2,9 +2,12 @@
 ## BSc(Biotechnology) 
 
 
-I'm Amavin, an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
-I'm an individual who is passionate about wildlife and science.
+I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
+I'm an individual who is hard working teamplayer. prepared to undertake any challenge. I'm resposnsible and a good communicator.
+I'm passionate about learning new things.
 **Welcome to My GITHUB E-Portfolio.**
+
+![alt text](Screenshot 2021-09-27 100422)
 
 # Experience
 ## Intern -**Urban Fishing cat Consevation Project** (2021)
