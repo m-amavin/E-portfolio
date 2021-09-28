@@ -19,7 +19,7 @@ I'm passionate about gaining new experinces and learning new things.
 * Computer skills including Microsoft Office applications
 * Proficient in English and Sinhala
 * Public speaking
-* Basic skills in Adobe software including photoshop and priemier pro
+* Basic skills in Adobe software including photoshop and premier pro
 
  
  
@@ -68,9 +68,9 @@ English Medium
 
 ## **Sports**
 * Rugby
-* swimming
-* athletics
-* karate
+* Swimming
+* Athletics
+* Karate
 
 ## **Positions held in Societies at School**
 
