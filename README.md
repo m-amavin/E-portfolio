@@ -8,11 +8,11 @@ I'm an individual who is hard working and prepared to undertake any challenge. I
 I'm passionate about gaining new experinces and learning new things.
 </p>
 
-|**Full name** | Balapuwaduge Ranidu Amavin Mendis |
-|**Date of birth** | 07.09.2001 |
-|**Nationality** | Sri Lankan |
-|**Address** | 26/102c, Waidya Road, Dehiwala. |
-|**Email** | <span style="color:blue">hs21915604@my.sliit.lk</span>
+| **Full name** | Balapuwaduge Ranidu Amavin Mendis |
+| **Date of birth** | 07.09.2001 |
+| **Nationality** | Sri Lankan |
+| **Address** | 26/102c, Waidya Road, Dehiwala. |
+| **Email** | <span style="color:blue">hs21915604@my.sliit.lk</span> |
 
 
 # Experience
