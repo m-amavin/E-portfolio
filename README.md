@@ -23,7 +23,7 @@ I'm passionate about gaining new experinces and learning new things.
 * Basic skills in Adobe software including photoshop and premier pro
 
 
-### <p align="justify">[DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)</p>
+[DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)
  
  
 # Experience
