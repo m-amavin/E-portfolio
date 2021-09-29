@@ -21,6 +21,8 @@ I'm passionate about gaining new experinces and learning new things.
 * Public speaking
 * Basic skills in Adobe software including photoshop and premier pro
 
+
+[DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)
  
  
 # Experience
@@ -92,6 +94,8 @@ English Medium
 * **Young Zoologists'Association (2016-present)**
 * **Greeenrange bee conservation organisation (2018-present)**
 
+
+[DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)
 
 
  
