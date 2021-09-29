@@ -1,9 +1,9 @@
 # Amavin Mendis
-## BSc(Biotechnology) 
+## BSc(Biotechnology) (1st year undergraduate)
 
 ![image](https://user-images.githubusercontent.com/91007470/135143719-53e1d481-e576-4a3e-ae54-66d7e580ad01.png)
  
-<p align="justify">I'm an undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
+<p align="justify">I'm a 1st year undergraduate currently following a BSc(Biotechnology) programme at SLIIT.
 I'm an individual who is hard working and prepared to undertake any challenge. I'm a team player who is able to communicate effectively.
 I'm passionate about gaining new experinces and learning new things.
 </p>
@@ -23,6 +23,7 @@ I'm passionate about gaining new experinces and learning new things.
 
 
 [DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)
+[LINKEDIN Profile](www.linkedin.com/in/amavin-mendis)
  
  
 # Experience
