@@ -14,6 +14,7 @@ I'm passionate about gaining new experinces and learning new things.
 | **Address** | 26/102c, Waidya Road, Dehiwala. |
 | **Email** | <span style="color:blue">hs21915604@my.sliit.lk</span> |
 | **Languages** | English, Sinhala |
+| **LinkedIn profile** | [LINKEDIN Profile](www.linkedin.com/in/amavin-mendis) |
 
 ## **Skills**
 * Computer skills including Microsoft Office applications
@@ -22,10 +23,7 @@ I'm passionate about gaining new experinces and learning new things.
 * Basic skills in Adobe software including photoshop and premier pro
 
 
-### [DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)
-
-
-### [LINKEDIN Profile](www.linkedin.com/in/amavin-mendis)
+### <p align="justify">[DOWNLOAD RESUME](https://drive.google.com/file/d/10HaOY6a_9_y403Z3r3-DaA_PAe5s-43N/view?usp=sharing)</p>
  
  
 # Experience
