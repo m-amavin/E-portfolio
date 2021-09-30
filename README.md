@@ -27,7 +27,7 @@ I'm passionate about gaining new experinces and learning new things.
  
  
 # Experience
-## Intern -**Urban Fishing cat Consevation Project** (2021,January - present)
+## Intern -**Urban Fishing cat Consevation Project** (2021 January - present)
 
 
 Voulnteering as an Intern at [Urban Fishing Cat Conservation Project](https://fishingcats.lk/people-behind-the-project/)
