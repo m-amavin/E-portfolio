@@ -12,8 +12,8 @@ I'm passionate about gaining new experinces and learning new things.
 | **Date of birth** | 07.09.2001 |
 | **Nationality** | Sri Lankan |
 | **Address** | 26/102c, Waidya Road, Dehiwala. |
-| **Email** | <span style="color:blue">hs21915604@my.sliit.lk</span> |
 | **Languages** | English, Sinhala |
+| **Email** | <span style="color:blue">hs21915604@my.sliit.lk</span> |
 | **LinkedIn profile** | [Amavin Mendis](https://www.linkedin.com/in/amavin-mendis/) |
 
 ## **Skills**
@@ -27,7 +27,7 @@ I'm passionate about gaining new experinces and learning new things.
  
  
 # Experience
-## Intern -**Urban Fishing cat Consevation Project** (2021)
+## Intern -**Urban Fishing cat Consevation Project** (2021,January - present)
 
 
 Voulnteering as an Intern at [Urban Fishing Cat Conservation Project](https://fishingcats.lk/people-behind-the-project/)
